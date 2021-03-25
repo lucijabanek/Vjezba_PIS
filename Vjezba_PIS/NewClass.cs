@@ -11,6 +11,9 @@ namespace Vjezba_PIS
             Console.WriteLine("Novo");
 
             Console.WriteLine("Lucija Bilic");
+            
+                        Console.WriteLine("Novo");
+
 }
     }
 }
