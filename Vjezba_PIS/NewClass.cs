@@ -2,15 +2,11 @@
 
 namespace Vjezba_PIS
 {
-    class Program
+    class NewClass
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Novo");
-            Console.WriteLine("Novo");
-
-            Console.WriteLine("Lucija Bilic");
 }
     }
 }
